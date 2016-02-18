@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyParseJson">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/MyParseJson.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

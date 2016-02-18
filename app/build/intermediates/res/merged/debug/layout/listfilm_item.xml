@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:orientation="horizontal" >
+
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/iv_item"
+        android:layout_width="150dp"
+        android:layout_height="300dp"
+       />
+    <TextView
+        android:id="@+id/tv_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:gravity="center_vertical" />
+
+</LinearLayout><!-- From: file:/D:/FSS/Learning/watchfilm1/app/src/main/res/layout/listfilm_item.xml -->
